@@ -8,12 +8,12 @@
 <html>
 	<head>
 		<title>Secure Login</title>
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" >
+		<link rel="stylesheet" type="text/css" href="bootstrap.css" >
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 		<body>
 			<div id="container">
-				<?php include_once('incs/header.php')?>
+				<?php // include_once('incs/header.php')?>
 				
 				<div class='rows'>
 					<div class="col-md-4"></div>
